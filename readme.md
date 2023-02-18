@@ -1,1 +1,1 @@
-
+This is my Master thesis which mainly focus on analyzing FCN based deep learning models' performance on high resolution remote sensing data set. Detailed hyperparameter tuning please refer to the attached pdf of published article.
